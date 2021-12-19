@@ -28,10 +28,26 @@ _I love to work in new, complex and challenging tasks or projects_
 
 <br/>
 
-<table width=100%>
+Github markdown full-width 2 column table.
+
+<table>
 <tr>
-<th  width=50%> 🚀 Main skills </th>
-<th  width=50%> 🛠️ I am able to create:</th>
+<th align="center">
+<img width="441" height="1px">
+<p> 
+<small>
+🚀 Main skills 
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+🛠️ I am able to create
+</small>
+</p>
+</th>
 </tr>
 <tr>
 <td>
