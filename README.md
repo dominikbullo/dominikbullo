@@ -28,13 +28,23 @@ _I love to work in new, complex and challenging tasks or projects_
 
 <br/>
 
+<table width=100%>
+<tr>
+<th  width=50%> 🚀 Main skills </th>
+<th  width=50%> 🛠️ I am able to create:</th>
+</tr>
+<tr>
+<td>
+
 ✅ Django, Vue.js, Postgres, Docker  
 ✅ HTML/CSS/SASS  
 ✅ JS/jQuery  
-✅ Git & CI/CD integrations (Github Actions)  
-✅ Gulp, npm, Node
+✅ Git  
+✅ CI/CD integrations (Github Actions)  
+✅ Gulp, npm, Node...
 
-# 🛠️ I am able to create:
+</td>
+<td>
 
 👉 Wordpress development and customization  
 👉 Woocomerce eshop creation  
@@ -44,6 +54,10 @@ _I love to work in new, complex and challenging tasks or projects_
 👉 ACF | Advanced Custom Fields  
 👉 WPBakery, Elementor  
 👉 Let’s find out what else 🚀
+
+</td>
+</tr>
+</table>
 
 ### Contact me, If you need a help, don't hesitate. There is always space for improvement 💪
 
