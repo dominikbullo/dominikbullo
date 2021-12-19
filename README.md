@@ -2,10 +2,6 @@
 
 _I love to work in new, complex and challenging tasks or projects_
 
-### who am i?
-
-<img src="https://raw.githubusercontent.com/dominikbullo/dominikbullo/master/images/intro-bg.jpg">
-
 <br/>
 
 # 🔽 Skills & Experiences: 🔽
