@@ -6,13 +6,9 @@ _I love to work in new, complex and challenging tasks or projects_
 
 <img src="https://raw.githubusercontent.com/dominikbullo/dominikbullo/master/images/intro-bg.jpg">
 
-# 🔽 Skills & Experiences: 🔽
+<br/>
 
-✔ Django, Vue.js, Postgres, Docker  
-✔ HTML/CSS/SASS  
-✔ JS/jQuery  
-✔ Git & CI/CD integrations (Github Actions)  
-✔ Gulp, npm, Node
+# 🔽 Skills & Experiences: 🔽
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="auto" height="55"/>   
@@ -28,27 +24,36 @@ _I love to work in new, complex and challenging tasks or projects_
 ---
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="wordpress" width="auto" height="55"/>   
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="auto" height="55"/>     
+      <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="auto" height="55"/>     
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="auto" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="auto" height="55"/>       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="auto" height="55"/>     
 </p>
 
----
+<br/>
+
+✅ Django, Vue.js, Postgres, Docker  
+✅ HTML/CSS/SASS  
+✅ JS/jQuery  
+✅ Git & CI/CD integrations (Github Actions)  
+✅ Gulp, npm, Node
 
 # 🛠️ I am able to create:
 
-☛ Wordpress development and customization  
-☛ Woocomerce eshop creation  
-☛ Wordpress SEO & Speed increase  
-☛ Custom Wordpress plugin  
-☛ Custom Wordpress theme  
-☛ ACF | Advanced Custom Fields  
-☛ WPBakery, Elementor  
-☛ Let’s find out what else 🚀
+👉 Wordpress development and customization  
+👉 Woocomerce eshop creation  
+👉 Wordpress SEO & Speed increase  
+👉 Custom Wordpress plugin  
+👉 Custom Wordpress theme  
+👉 ACF | Advanced Custom Fields  
+👉 WPBakery, Elementor  
+👉 Let’s find out what else 🚀
 
-## Contact me, If you need a help, don't hesitate. There is always space for improvement 💪
+### Contact me, If you need a help, don't hesitate. There is always space for improvement 💪
 
----
+<br/><br/>
 
-### Some Stats:
+## Some Stats:
 
 [![wakatime](https://wakatime.com/badge/user/4d10d533-316f-4f96-b9e3-349154838da8.svg)](https://wakatime.com/@4d10d533-316f-4f96-b9e3-349154838da8)
 
