@@ -26,7 +26,8 @@ _I love to work in new, complex and challenging tasks or projects_
 <tr>
 <td>
 
-✅ Django, Vue.js, Postgres, Docker  
+✅ Django, Vue.js, Postgres, Docker
+✅ Django REST framework, Django-Graphene, GraphQL, REST  
 ✅ HTML/CSS/SASS  
 ✅ JS/jQuery  
 ✅ Git  
