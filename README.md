@@ -7,16 +7,9 @@
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql" width="auto" height="55"/> 
       <img src="https://www.django-rest-framework.org/img/logo.png" alt="drf" width="auto" height="55"/>   
       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" width="auto" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="awq" width="auto" height="55"/>
 </p>
 
----
-
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="wordpress" width="auto" height="55"/>   
-      <img src="https://vectorwiki.com/images/9TSFc__woocommerce.svg" alt="wordpress" width="auto" height="55"/>   
-      <img src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-icon.svg" alt="gulp.js" width="auto" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="auto" height="55"/>
-</p>
 
 ```python
 #!/usr/bin/python
