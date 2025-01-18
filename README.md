@@ -7,7 +7,7 @@
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql" width="auto" height="55"/> 
       <img src="https://www.django-rest-framework.org/img/logo.png" alt="drf" width="auto" height="55"/>   
       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" width="auto" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="awq" width="auto" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="awq" width="auto" height="55"/>
 </p>
 
 
