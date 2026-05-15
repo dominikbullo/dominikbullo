@@ -1,10 +1,13 @@
-# hi human! 👋
+ # Dominik Bullo
 
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="auto" height="55"/>   
-      <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue.js" width="auto" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="auto" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql" width="auto" height="55"/> 
-      <img src="https://www.django-rest-framework.org/img/logo.png" alt="drf" width="auto" height="55"/>   
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="awq" width="auto" height="55"/>
-</p>
+  Software Engineer — Energy Infrastructure
+  Stockholm, Sweden · [bullo.sk](https://bullo.sk) · [LinkedIn](https://linkedin.com/in/bullodominik)
+
+  ---
+
+  Building SCADA platforms, energy management systems, and trading pipelines for Nordic power markets. Currently at [Ingrid](https://ingridcapacity.com) controlling BESS, wind, and
+  hydro assets across FCR and mFRR ancillary markets.
+
+  **Stack:** Python · FastAPI · Django · TypeScript · Vue.js · PostgreSQL · TimescaleDB · GCP · Kubernetes · Terraform
+
+  **Domain:** BESS · SCADA · EMS · IEC 61850 · FCR · mFRR · Nord Pool · SvK prequalification
