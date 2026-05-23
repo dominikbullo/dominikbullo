@@ -15,15 +15,12 @@ Building SCADA platforms, energy management systems, and trading pipelines for N
 
 ### AI Setup
 
-**[dominikbullo/ai](https://github.com/dominikbullo/ai)** — Claude Code agents for engineering and energy infrastructure work.  
-Includes domain-specific agents for IEC 61850, Nordic ancillary markets (FCR/mFRR/aFRR), and asset dispatch optimisation.
-
-**[dominikbullo/skills](https://github.com/dominikbullo/skills)** — Claude Code skills for daily workflow automation.
+**[dominikbullo/ai](https://github.com/dominikbullo/ai)** — Claude Code agents and skills for engineering work in energy infrastructure. Includes domain-specific agents for IEC 61850, Nordic ancillary markets, and asset dispatch optimisation.
 
 ```bash
-# Install agents
+# Agents
 git clone https://github.com/dominikbullo/ai ~/ai && ~/ai/scripts/link-agents.sh
 
-# Install skills
-npx skills@latest add dominikbullo/skills --global --all
+# Skills
+npx skills@latest add dominikbullo/ai --global --all
 ```
