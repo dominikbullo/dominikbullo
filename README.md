@@ -7,7 +7,7 @@ Stockholm, Sweden · [bullo.sk](https://bullo.sk) · [LinkedIn](https://linkedin
 
 ### Machine Setup
 
-**[dominikbullo/nix-config](https://github.com/dominikbullo/nix-config)** — Declarative configuration for all my machines. One command to reproduce the full environment — packages, dotfiles, secrets, and system settings on any host.
+Declarative configuration for all my machines. One command to reproduce the full environment — packages, dotfiles, secrets, and system settings on any host.
 
 ```bash
 nix run .#build-switch
